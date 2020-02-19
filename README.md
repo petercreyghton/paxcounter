@@ -2,6 +2,9 @@
 
 Note! This repo is a fork of the Paxcounter project, adapted to my specific environment and hardware. Use at your own risk ;-)
 
+## Status:
+
+Wifi sniffer is working, BLE also. Connection to TTN over LoraWan is not woking yet, lora queue gets full (needs investigation)
 
 
 # ESP32-Paxcounter
