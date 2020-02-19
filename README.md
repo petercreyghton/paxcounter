@@ -6,6 +6,7 @@ Note! This repo is a fork of the Paxcounter project, adapted to my specific envi
 
 Wifi sniffer is working, BLE also. Connection to TTN over LoraWan is not woking yet, lora queue gets full (needs investigation)
 
+<img src="img/ttgo-v1.png">
 
 # ESP32-Paxcounter
 **Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards**
