@@ -1,3 +1,9 @@
+# PAX counter working version for TTGO v1 boards
+
+Note! This repo is a fork of the Paxcounter project, adapted to my specific environment and hardware. Use at your own risk ;-)
+
+
+
 # ESP32-Paxcounter
 **Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards**
 
